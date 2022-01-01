@@ -1,0 +1,36 @@
+{
+  "____comment": "Предметы",
+  "item.modpack.repair_shard": "Осколок Починки",
+  "item.ingenium.orb_of_temporary_flight": "Сфера Временного Полёта",
+  "item.ingenium.bibliolith_of_experience": "Библиолит Опыта",
+  "item.modpack.fire_crystal": "Кристал Огня",
+  "item.modpack.water_crystal": "Кристал Воды",
+  "item.modpack.wind_crystal": "Кристал Ветра",
+  "item.modpack.earth_crystal": "Кристал Земли",
+
+  "__comment": "Блоки",
+  "block.modpack.fire_ore": "Руда Огня",
+  "item.modpack.water_ore": "Руда Воды",
+  "block.modpack.wind_ore": "Руда Ветра",
+  "block.modpack.earth_ore": "Руда Земли",
+  "block.modpack.lightning_infusioner": "Громовой Наполнитель",
+
+  "__comment": "Screens",
+  "screen.modpack.lightning_infusioner": "Громовой Наполнитель",
+
+  "__comment": "Эффекты",
+  "effect.ingenium.flight": "Полёт",
+  "effect.ingenium.exp": "Насыщение Опытом",
+
+  "_comment": "ModPack Группы",
+  "itemGroup.ingenium_tab": "Вкладка Ingenium",
+  "itemGroup.modpack_toolsTab": "ModPack Инструменты",
+  "itemGroup.modpack_blocksTab": "ModPack Блоки",
+  "itemGroup.modpack_crystalsTab": "ModPack Кристалы",
+
+  "__comment": "Tooltips",
+  "tooltip.ingenium.orb_of_temporary_flight": "Удерживайте §eSHIFT§r для большей информации",
+  "tooltip.ingenium.orb_of_temporary_flight_shift": "Наделяет игрока полётом на 5 минуты",
+  "tooltip.ingenium.bibliolith_of_experience": "Удерживайте §eSHIFT§r для большей информации",
+  "tooltip.ingenium.bibliolith_of_experience_shift": "Насыщает игрока опытом"
+}

@@ -1,0 +1,37 @@
+{
+  "____comment": "Items",
+  "item.modpack.repair_shard": "Repair Shard",
+  "item.ingenium.orb_of_temporary_flight": "Orb Of Temporary Flight",
+  "item.ingenium.bibliolith_of_experience": "Bibliolith Of Experience",
+  "item.modpack.fire_crystal": "Fire Crystal",
+  "item.modpack.water_crystal": "Water Crystal",
+  "item.modpack.wind_crystal": "Wind Crystal",
+  "item.modpack.earth_crystal": "Earth Crystal",
+
+  "__comment": "Blocks",
+  "block.modpack.fire_ore": "Fire Ore",
+  "block.modpack.water_ore": "Water Ore",
+  "block.modpack.wind_ore": "Wind Ore",
+  "block.modpack.earth_ore": "Earth Ore",
+  "block.modpack.lightning_infusioner": "Lightning Infusioner",
+
+  "__comment": "Screens",
+  "screen.modpack.lightning_infusioner": "Lightning Infusioner",
+
+  "__comment": "Effects",
+  "effect.ingenium.flight": "Flight",
+  "effect.ingenium.exp": "Experience Saturation",
+
+
+  "_comment": "ModPack Groups",
+  "itemGroup.ingenium_tab": "Ingenium Tab",
+  "itemGroup.modpack_toolsTab": "ModPack Tools",
+  "itemGroup.modpack_blocksTab": "ModPack Blocks",
+  "itemGroup.modpack_crystalsTab": "ModPack Crystals",
+
+  "__comment": "Tooltips",
+  "tooltip.ingenium.orb_of_temporary_flight": "Hold \u00A7eSHIFT\u00A7r for more information",
+  "tooltip.ingenium.orb_of_temporary_flight_shift": "Provides the player with flight for 5 minutes",
+  "tooltip.ingenium.bibliolith_of_experience": "Hold \u00A7eSHIFT\u00A7r for more information",
+  "tooltip.ingenium.bibliolith_of_experience_shift": "Saturates the player with experience"
+}
