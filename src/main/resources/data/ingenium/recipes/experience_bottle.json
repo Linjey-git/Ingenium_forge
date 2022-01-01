@@ -1,0 +1,18 @@
+{
+  "type": "ingenium:lightning_infusion",
+  "weather": "rain",
+  "ingredients": [
+    {
+      "item": "minecraft:dragon_breath"
+    },
+    {
+      "item": "minecraft:golden_carrot"
+    },
+    {
+      "item": "minecraft:glowstone_dust"
+    }
+  ],
+  "output": {
+    "item": "minecraft:experience_bottle"
+  }
+}
