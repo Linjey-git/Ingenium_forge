@@ -130,14 +130,11 @@ public class LightningInfusionerBlockEntity extends BlockEntity implements MenuP
             }
             if (iRecipe.getWeather().equals(LightningInfusionerRecipe.Weather.RAIN) &&
                     level.isRaining()) {
+                if (level.isThundering()) {
+                    strikeLightning();
+                }
                 craftTheItem(output, entity);
             }
-            if (iRecipe.getWeather().equals(LightningInfusionerRecipe.Weather.THUNDERING) &&
-                    level.isThundering()) {
-                strikeLightning();
-                craftTheItem(output, entity);
-            }
-
         });
     }
 

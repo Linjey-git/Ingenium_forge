@@ -19,12 +19,10 @@ public class LightningInfusionerRecipe implements Recipe<SimpleContainer> {
 
     public enum Weather {
         CLEAR,
-        RAIN,
-        THUNDERING;
+        RAIN;
 
         public static Weather getWeatherByString(String weather) {
-            return Objects.equals(weather, "thundering") ? THUNDERING
-                    : Objects.equals(weather, "rain") ? RAIN
+            return Objects.equals(weather, "rain") ? RAIN
                     : CLEAR;
         }
     }
